@@ -85,14 +85,14 @@ var projects = {
         "dates": "Feb 24 2016",
         "description": "This is my resume builder Project." +
             " I built it off the Javascript Basics Course",
-        "images": ["http://placekitten.com/700/700", "http://placekitten.com/500/500"]
+        "images": ["https://placekitten.com/700/700", "https://placekitten.com/500/500"]
     }, {
         "title": "<a href='https://cyberdans-project.appspot.com/' id='a-link'>" +
             "Stage 4 - Allow Comments</a>",
         "dates": "2016",
         "description": "This is my Allow Comments Project." +
             " This app uses the datastore.",
-        "images": ["http://placekitten.com/450/450", "http://placekitten.com/600/600"]
+        "images": ["https://placekitten.com/450/450", "https://placekitten.com/600/600"]
     }]
 };
 
