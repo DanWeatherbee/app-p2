@@ -85,7 +85,7 @@ var projects = {
         "dates": "Feb 24 2016",
         "description": "This is my resume builder Project." +
             " I built it off the Javascript Basics Course",
-        "images": ["https://placekitten.com/700/700", "https://placekitten.com/500/500"]
+        "images": ["https://placekitten.com/700/700", "https://placekitten.com/700/700"]
     }, {
         "title": "<a href='https://cyberdans-project.appspot.com/' id='a-link'>" +
             "Stage 4 - Allow Comments</a>",
